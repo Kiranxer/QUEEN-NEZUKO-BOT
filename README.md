@@ -1,4 +1,5 @@
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <div align="center" class= "main"> 
   <img src="https://i.imgur.com/f48WF0n.jpeg" width="300" height="300"/>
   <h1>ＮＥＺＵＫＯ - ＭＤ</h1>
@@ -10,7 +11,7 @@
 <a href="https://github.com/godzenitsu/QUEEN-NEZUKO-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GODZENITSU/QUEEN-NEZUKO-BOT?color=pink&style=flat-square"></a>
 <div align="left"
 <br><br>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## sᴇᴛᴜᴘ
 
