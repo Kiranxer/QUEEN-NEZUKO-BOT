@@ -8,7 +8,7 @@
 <br>
 <a href="https://github.com/godzenitsu?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Zenitsu?color=pink&style=flat-square"></a>
 <a href="https://github.com/godzenitsu/QUEEN-NEZUKO-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/godzenitsu/QUEEN-NEZUKO-BOT?color=white&style=flat-square"></a>
-<a href="https://github.com/godzenitsu/QUEEN-NEZUKO-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GODZENITSU/QUEEN-NEZUKO-BOT?color=pink&style=flat-square"></a>
+<a href="https://github.com/godzenitsu/QUEEN-NEZUKO-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/godzenitsu/QUEEN-NEZUKO-BOT?color=pink&style=flat-square"></a>
 <div align="left"
 <br><br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
