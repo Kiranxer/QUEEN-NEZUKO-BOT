@@ -4,13 +4,8 @@
   <img src="https://i.imgur.com/f48WF0n.jpeg" width="300" height="300"/>
   <h1>ＮＥＺＵＫＯ - ＭＤ</h1>
 
-<a href="https://github.com/godzenitsu"><img title="Creator" src="https://img.shields.io/badge/Creator-ZENITSU-red.svg?style=for-the-badge&logo=github"></a>
-<br>
-<a href="https://github.com/godzenitsu?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Zenitsu?color=pink&style=flat-square"></a>
-<a href="https://zenitsu-god.vercel.app"><img title="Support"></a>
-<a href="https://github.com/godzenitsu/QUEEN-NEZUKO-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/godzenitsu/QUEEN-NEZUKO-BOT?color=pink&style=flat-square"></a>
-<div align="left"
-<br><br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FFC0CB&center=true&width=900&height=100&lines=Its%20QUEEN-NEZUKO-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20GOD%20ZENITSU)
+<p align="center">
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## sᴇᴛᴜᴘ
